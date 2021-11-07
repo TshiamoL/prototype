@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightseagreen;
+}
+.container {
+    background-color: white;
+    border-style: inherit;
+    margin: 2cm;
+}
+.h4 {
+    border: magenta;
+}
+.h2 {
+    background-color: khaki;
+}
